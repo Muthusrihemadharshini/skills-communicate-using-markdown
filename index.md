@@ -21,3 +21,18 @@ I am learning how to use Markdown headers, lists, and formatting to communicate 
 ### Add sample content demonstrating Markdown headers
 
 
+##  Added sample code
+
+``` python
+#PYTHON
+a = 1
+b = 2
+c = a+b
+print(c)
+```
+
+
+
+
+
+
