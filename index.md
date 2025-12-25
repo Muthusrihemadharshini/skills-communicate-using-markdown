@@ -1,5 +1,8 @@
 # Using markdown to add headers
 
+
+![Cute cat doing coding](https://i.pinimg.com/736x/6b/21/d1/6b21d126bdd2aaf064b0c0ad99e66b3c.jpg)
+
 ## Understanding Markdown
 
 ### Why Markdown is useful
@@ -16,4 +19,5 @@ I am learning how to use Markdown headers, lists, and formatting to communicate 
 
 
 ### Add sample content demonstrating Markdown headers
+
 
